@@ -1,0 +1,7 @@
+Don't be confused by the ∞ (infinity sign).
+
+According to IEEE 754 should return ±infinity!
+
+If the divisor is zero and the dividend is a finite nonzero number, then the
+division by zero exception shall be signaled. The result, when no trap
+occurs, shall be a correctly signed INFINITY.
